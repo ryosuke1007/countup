@@ -11,6 +11,7 @@ import SpriteKit
 import GameplayKit
 
 class GameViewController: UIViewController {
+    var number: Int = 0
 
     override func viewDidLoad() {
         super.viewDidLoad()
